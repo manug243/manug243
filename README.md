@@ -4,22 +4,18 @@
 
 ## WeList &nbsp;<img alt="In development" src="https://img.shields.io/badge/status-in%20development-0A8240"/>
 
-Shared lists, built with Kotlin Multiplatform and Compose Multiplatform. One codebase for Android, iOS, Desktop and Web. Coming soon.
+Shared shopping lists for groups, built with Kotlin Multiplatform and Compose Multiplatform. Create a party, invite people and check off items together. One codebase for Android, iOS, Desktop and Web, in English and German, with light and dark themes. Coming soon.
 
-## compose-skeleton &nbsp;<a href="https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.manug243/compose-skeleton?label=Maven%20Central&color=0A8240"/></a>
+## [compose-skeleton](https://github.com/manug243/compose-skeleton) &nbsp;<a href="https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.manug243/compose-skeleton?label=Maven%20Central&color=0A8240"/></a>
 
 <a href="https://github.com/manug243/compose-skeleton">
 <img src="https://raw.githubusercontent.com/manug243/manug243/main/assets/demo-rounded.svg" width="20%" align="right"/>
 </a>
 
-Layout-aware skeleton placeholders with one synchronized shimmer for Compose Multiplatform. You keep building the real component and add `Modifier.skeleton()` where you would add a background. Published on [Maven Central](https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton) for Android, Desktop and iOS, all from `commonMain`.
-
-[Repository](https://github.com/manug243/compose-skeleton)
+Layout-aware skeleton placeholders with one synchronized shimmer for Compose Multiplatform. You keep building the real component and add `Modifier.skeleton()` where you would add a background. Four modes (`Shimmer`, `Solid`, `Keep`, `Hide`) decide what each element does while loading, and the style is fully customizable: colors, shape, shimmer width, tilt, speed and direction. Published on [Maven Central](https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton) for Android, Desktop and iOS, all from `commonMain`.
 
 <br clear="right"/>
 
-## gello-app &nbsp;<img alt="Archived" src="https://img.shields.io/badge/status-archived-6e7781"/>
+## [gello-app](https://github.com/manug243/gello-app) &nbsp;<img alt="Archived" src="https://img.shields.io/badge/status-archived-6e7781"/>
 
-A Kotlin Multiplatform demo app for lab journals with gel image analysis (Android, iOS, Desktop). Shared UI with Compose Multiplatform, Koin, Room and Ktor. Built as a school project.
-
-[Repository](https://github.com/manug243/gello-app)
+A Kotlin Multiplatform demo app for lab journals with gel image analysis (Android, iOS, Desktop). Sign in, organize journals and entries, search across them, and create entries in a guided flow with image cropping and automatic lane detection. Shared UI with Compose Multiplatform, Koin, Room and Ktor. Built as a school project.
