@@ -18,7 +18,7 @@ Layout-aware skeleton placeholders with one synchronized shimmer for Compose Mul
 
 <br clear="right"/>
 
-## gello-app &nbsp;<img alt="Demo, school project" src="https://img.shields.io/badge/demo-school%20project-6e7781"/>
+## gello-app &nbsp;<img alt="Archived" src="https://img.shields.io/badge/status-archived-6e7781"/>
 
 A Kotlin Multiplatform demo app for lab journals with gel image analysis (Android, iOS, Desktop). Shared UI with Compose Multiplatform, Koin, Room and Ktor. Built as a school project.
 
