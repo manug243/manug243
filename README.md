@@ -8,11 +8,11 @@
 
 Shared lists, built with Kotlin Multiplatform and Compose Multiplatform. One codebase for Android, iOS, Desktop and Web, with a Spring Boot backend. Coming soon.
 
+## compose-skeleton
+
 <a href="https://github.com/manug243/compose-skeleton">
 <img src="https://raw.githubusercontent.com/manug243/compose-skeleton/main/docs/demo.gif" width="22%" align="right"/>
 </a>
-
-## compose-skeleton
 
 Layout-aware skeleton placeholders with one synchronized shimmer for Compose Multiplatform. You keep building the real component and add `Modifier.skeleton()` where you would add a background. Published on Maven Central for Android, Desktop and iOS, all from `commonMain`.
 
