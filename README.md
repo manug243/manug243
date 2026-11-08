@@ -1,14 +1,12 @@
 <p align="center">
-  <a href="https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.manug243/compose-skeleton?label=compose-skeleton&color=0A8240"/></a>
-  <img alt="Kotlin Multiplatform" src="https://img.shields.io/badge/Kotlin-Multiplatform-161616"/>
-  <img alt="Compose Multiplatform" src="https://img.shields.io/badge/Compose-Multiplatform-161616"/>
+  <img alt="Kotlin, Compose Multiplatform, Material 3, Lottie, Koin, Room, Coil" src="https://raw.githubusercontent.com/manug243/manug243/main/assets/stack.svg"/>
 </p>
 
 ## WeList &nbsp;<img alt="In development" src="https://img.shields.io/badge/status-in%20development-0A8240"/>
 
-Shared lists, built with Kotlin Multiplatform and Compose Multiplatform. One codebase for Android, iOS, Desktop and Web, with a Spring Boot backend. Coming soon.
+Shared lists, built with Kotlin Multiplatform and Compose Multiplatform. One codebase for Android, iOS, Desktop and Web. Coming soon.
 
-## compose-skeleton
+## compose-skeleton &nbsp;<a href="https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.manug243/compose-skeleton?label=Maven%20Central&color=0A8240"/></a>
 
 <a href="https://github.com/manug243/compose-skeleton">
 <img src="https://raw.githubusercontent.com/manug243/manug243/main/assets/demo-rounded.svg" width="20%" align="right"/>
@@ -20,7 +18,7 @@ Layout-aware skeleton placeholders with one synchronized shimmer for Compose Mul
 
 <br clear="right"/>
 
-## gello-app
+## gello-app &nbsp;<img alt="Demo, school project" src="https://img.shields.io/badge/demo-school%20project-6e7781"/>
 
 A Kotlin Multiplatform demo app for lab journals with gel image analysis (Android, iOS, Desktop). Shared UI with Compose Multiplatform, Koin, Room and Ktor. Built as a school project.
 
