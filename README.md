@@ -14,7 +14,7 @@ Shared lists, built with Kotlin Multiplatform and Compose Multiplatform. One cod
 <img src="https://raw.githubusercontent.com/manug243/manug243/main/assets/demo-rounded.svg" width="20%" align="right"/>
 </a>
 
-Layout-aware skeleton placeholders with one synchronized shimmer for Compose Multiplatform. You keep building the real component and add `Modifier.skeleton()` where you would add a background. Published on Maven Central for Android, Desktop and iOS, all from `commonMain`.
+Layout-aware skeleton placeholders with one synchronized shimmer for Compose Multiplatform. You keep building the real component and add `Modifier.skeleton()` where you would add a background. Published on [Maven Central](https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton) for Android, Desktop and iOS, all from `commonMain`.
 
 [Repository](https://github.com/manug243/compose-skeleton)
 
