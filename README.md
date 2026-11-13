@@ -10,6 +10,12 @@ Shared shopping lists for groups, built with Kotlin Multiplatform and Compose Mu
 
 ---
 
+### knit &nbsp;<a href="https://github.com/manug243/knit"><img align="absmiddle" alt="In development" src="https://img.shields.io/badge/status-in%20development-0A8240"/></a>
+
+Native iOS and Android navigation chrome for Compose Multiplatform, built on Navigation 3. On iOS you get a real Liquid Glass tab bar (a native `UITabBar` as an overlay above the single Compose tree), on Android Material 3, and you never write Swift: the entry point stays `ComposeUIViewController { ... }`. One `KnitScaffold` with a few lines of tab configuration, and Navigation 3 stays the single source of truth for your back stack. Not released yet.
+
+---
+
 ### compose-skeleton &nbsp;<a href="https://central.sonatype.com/artifact/io.github.manug243/compose-skeleton"><img align="absmiddle" alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.manug243/compose-skeleton?label=Maven%20Central&color=0A8240"/></a>
 
 <a href="https://github.com/manug243/compose-skeleton">
