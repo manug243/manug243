@@ -10,9 +10,9 @@ Shared shopping lists for groups, built with Kotlin Multiplatform and Compose Mu
 
 ---
 
-### knit &nbsp;<a href="https://github.com/manug243/knit"><img align="absmiddle" alt="In development" src="https://img.shields.io/badge/status-in%20development-0A8240"/></a>
+### knit &nbsp;<a href="https://central.sonatype.com/artifact/io.github.manug243/knit"><img align="absmiddle" alt="Maven Central" src="https://img.shields.io/maven-central/v/io.github.manug243/knit?label=Maven%20Central&color=0A8240"/></a>
 
-Native navigation for Compose Multiplatform, built on Navigation 3: one Compose tree, one navigation state, no Swift. On iOS you get a real `UITabBar` and `UINavigationBar` (Liquid Glass when built with the iOS 26 SDK), on Android Material 3 bars with a rail on wide screens and predictive back. Desktop (JVM) and Web (wasmJs) are targets as well; the web target compiles but has not been tried in a browser yet. Not released yet.
+Native navigation for Compose Multiplatform, built on Navigation 3: one Compose tree, one navigation state, no Swift. On iOS you get a real `UITabBar` and `UINavigationBar` (Liquid Glass when built with the iOS 26 SDK), on Android Material 3 bars with a rail on wide screens and predictive back. Desktop (JVM) and Web (js and wasmJs) are targets as well; the web targets compile but have not been tried in a browser yet. The first alpha, `0.1.0-alpha01`, has been on [Maven Central](https://central.sonatype.com/artifact/io.github.manug243/knit) since November 14, 2026. Source on [GitHub](https://github.com/manug243/knit).
 
 ---
 
